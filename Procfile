@@ -1,0 +1,1 @@
+worker: your-app-binary
